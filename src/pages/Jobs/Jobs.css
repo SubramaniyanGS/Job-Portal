@@ -1,0 +1,5408 @@
+.icon {
+  width: 1440px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.dream-job {
+  color: var(--color-lightseagreen);
+}
+.find-your-dream-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.health-frame {
+  width: 503px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.find-your-next {
+  height: 27px;
+  width: 614px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.design-frame {
+  width: 898px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.layer-1-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.new-zealand {
+  width: calc(100% - 25px);
+  border: 0;
+  outline: 0;
+  font-family: var(--text);
+  font-size: var(--text-size);
+  background-color: transparent;
+  height: 27px;
+  flex: 1;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 164px;
+}
+.layer-1-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.cancel-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  display: none;
+}
+.job-search-location {
+  width: 400px;
+  border-radius: var(--br-12xl);
+  background-color: var(--color-aliceblue);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) 57px var(--padding-4xs) var(--padding-6xl);
+  gap: var(--gap-29xl);
+  max-width: 100%;
+}
+.job-seeker-3135680-1-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+  margin-left: -375px;
+}
+.marketing-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 260px;
+  max-width: 100%;
+}
+.layer-1-icon1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.new-zealand1 {
+  width: calc(100% - 25.2px);
+  border: 0;
+  outline: 0;
+  font-family: var(--text);
+  font-size: var(--text-size);
+  background-color: transparent;
+  height: 27px;
+  flex: 1;
+  position: relative;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 46px;
+}
+.layer-1-group {
+  width: 122px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.cancel-icon1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  display: none;
+}
+.job-search-location1 {
+  flex: 1;
+  border-radius: var(--br-12xl);
+  background-color: var(--color-aliceblue);
+  border: 1px solid var(--color-gainsboro);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-6xl);
+  gap: var(--gap-29xl);
+}
+.location-3037821-1-icon {
+  height: 26.4px;
+  width: 25.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: 6px;
+  left: 32px;
+  object-fit: contain;
+  z-index: 1;
+}
+.marketing-frame1 {
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.search1 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+  font-family: var(--font-inter);
+  color: #fafafa;
+  text-align: left;
+}
+.layer {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs) 58px var(--padding-7xs) 59px;
+  background-color: var(--color-lightseagreen);
+  border-radius: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.layer:hover,
+.standart-buttonnormal36:hover,
+.standart-buttonnormal37:hover,
+.standart-buttonnormal38:hover,
+.standart-buttonnormal39:hover,
+.standart-buttonnormal40:hover,
+.standart-buttonnormal41:hover,
+.standart-buttonnormal42:hover,
+.standart-buttonnormal43:hover,
+.standart-buttonnormal44:hover {
+  background-color: var(--color-turquoise);
+}
+.popular-react,
+.search {
+  max-width: 100%;
+  z-index: 1;
+}
+.search {
+  margin: 0;
+  align-self: stretch;
+  border-radius: 38px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-6xs);
+  box-sizing: border-box;
+  gap: 27px;
+  white-space: nowrap;
+}
+.popular-react {
+  width: 756px;
+  height: 27px;
+  position: relative;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.technology-frame {
+  width: 921px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+  font-family: var(--text);
+}
+.frame-square,
+.software-developer {
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.frame-square {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 85px 19px var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  background-image: url(/public/6122595-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  font-size: 44px;
+}
+.software-developer {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+}
+.dell-pvt-ltd {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon2 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.noun-checkbox-1016506-6 {
+  width: 400px;
+  position: relative;
+  height: 400px;
+  display: none;
+  max-width: 100%;
+}
+.software-developer1 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd1 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon3 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai1 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon1 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time1 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now1 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal1 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon1 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job1 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer2 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd2 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon4 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai2 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon2 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time2 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now2 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal2 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon2 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job2 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer3 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd3 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon5 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai3 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon3 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time3 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now3 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal3 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon3 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job3 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer4 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd4 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon6 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai4 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon4 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time4 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now4 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal4 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon4 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job4 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer5 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd5 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon7 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai5 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon5 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time5 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now5 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal5 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon5 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job5 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer6 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd6 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon8 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai6 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon6 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time6 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now6 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal6 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon6 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job6 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer7 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd7 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon9 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai7 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon7 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time7 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now7 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal7 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon7 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job7 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer8 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd8 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon10 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai8 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon8 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time8 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now8 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal8 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon8 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job8 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer9 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd9 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon11 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai9 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon9 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time9 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now9 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal9 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.featured-job-child,
+.image-9-icon9 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 386px;
+  height: 125px;
+  display: none;
+}
+.layer-1-icon12 {
+  position: absolute;
+  top: 232px;
+  left: 177px;
+  width: 32px;
+  height: 42px;
+  overflow: hidden;
+  display: none;
+}
+.software-developer10 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd10 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon13 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai10 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon10 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time10 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now10 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal10 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon10 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job10 {
+  position: absolute;
+  top: 261px;
+  left: -348px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.featured-job-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 386px;
+  height: 125px;
+  object-fit: cover;
+  display: none;
+}
+.layer-1-icon14 {
+  position: absolute;
+  top: 232px;
+  left: 177px;
+  width: 32px;
+  height: 42px;
+  overflow: hidden;
+  display: none;
+}
+.software-developer11 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd11 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon15 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai11 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon11 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time11 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now11 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal11 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon11 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job-inner,
+.featured-job11 {
+  position: absolute;
+  left: 0;
+  display: none;
+}
+.featured-job11 {
+  top: 264px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.featured-job-inner {
+  top: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 386px;
+  height: 125px;
+  object-fit: cover;
+}
+.layer-1-icon16 {
+  position: absolute;
+  top: 232px;
+  left: 177px;
+  width: 32px;
+  height: 42px;
+  overflow: hidden;
+  display: none;
+}
+.software-developer12 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd12 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon17 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai12 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon12 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time12 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now12 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal12 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon12 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job12 {
+  position: absolute;
+  top: 267px;
+  left: 348px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.software-developer13 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd13 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon18 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai13 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon13 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time13 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now13 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal13 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon13 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job13 {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.software-developer14 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd14 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon19 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai14 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon14 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time14 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now14 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal14 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon14 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job14 {
+  position: absolute;
+  top: 267px;
+  left: 348px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.software-developer15 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd15 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon20 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai15 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon15 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time15 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now15 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal15 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon15 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job15 {
+  position: absolute;
+  top: 264px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.software-developer16 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd16 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon21 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai16 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon16 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time16 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now16 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal16 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon16 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job16,
+.featured-job9 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+}
+.featured-job16 {
+  position: absolute;
+  top: 267px;
+  left: 348px;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.featured-job9 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  display: none;
+}
+.software-developer17 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd17 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon22 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai17 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon17 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time17 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now17 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal17 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon17 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job17 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer18 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd18 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon23 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai18 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon18 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time18 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now18 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal18 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon18 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job18 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer19 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd19 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon24 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai19 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon19 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time19 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now19 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal19 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon19 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job19 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer20 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd20 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon25 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai20 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon20 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time20 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now20 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal20 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon20 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job20 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer21 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd21 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon26 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai21 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon21 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time21 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now21 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal21 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon21 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job21 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 386px;
+  height: 125px;
+  object-fit: cover;
+  display: none;
+}
+.layer-1-icon27 {
+  position: absolute;
+  top: 232px;
+  left: 177px;
+  width: 32px;
+  height: 42px;
+  overflow: hidden;
+  display: none;
+}
+.software-developer22 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd22 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon28 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai22 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon22 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time22 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now22 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal22 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon22 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job22 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.featured-job-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 386px;
+  height: 125px;
+  object-fit: cover;
+  display: none;
+}
+.layer-1-icon29 {
+  position: absolute;
+  top: 232px;
+  left: 177px;
+  width: 32px;
+  height: 42px;
+  overflow: hidden;
+  display: none;
+}
+.software-developer23 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd23 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon30 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai23 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon23 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time23 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now23 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal23 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon23 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job23 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer24 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd24 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon31 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai24 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon24 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time24 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now24 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal24 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon24 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job24 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer25 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd25 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon32 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai25 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon25 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time25 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now25 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal25 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon25 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job25 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer26 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd26 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon33 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai26 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon26 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time26 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now26 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal26 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon26 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job26 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer27 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd27 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon34 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai27 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon27 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time27 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now27 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal27 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon27 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job27 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer28 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd28 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon35 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai28 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon28 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time28 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now28 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal28 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon28 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job28 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer29 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd29 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon36 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai29 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon29 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time29 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now29 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal29 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon29 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job29 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer30 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd30 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon37 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai30 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon30 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time30 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now30 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal30 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon30 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job30 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.software-developer31 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd31 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon38 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai31 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon31 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time31 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now31 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal31 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon31 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job31 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer32 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd32 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon39 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai32 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon32 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time32 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now32 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal32 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon32 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job32 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer33 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd33 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon40 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai33 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon33 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time33 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now33 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal33 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon33 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job33 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer34 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd34 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon41 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai34 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon34 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time34 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now34 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal34 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon34 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job34 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.software-developer35 {
+  position: absolute;
+  top: 22px;
+  left: 82px;
+  font-size: var(--text-size);
+  letter-spacing: 0.01em;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.dell-pvt-ltd35 {
+  position: absolute;
+  top: 51px;
+  left: 82px;
+  line-height: 24px;
+}
+.layer-1-icon42 {
+  position: absolute;
+  top: 118px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.chennai35 {
+  position: absolute;
+  top: 118.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.mdiclock-icon35 {
+  position: absolute;
+  top: 84px;
+  left: 81px;
+  width: 20px;
+  height: 20px;
+}
+.full-time35 {
+  position: absolute;
+  top: 84.5px;
+  left: 111px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+}
+.apply-now35 {
+  position: absolute;
+  top: 4px;
+  left: 56px;
+  line-height: 20px;
+}
+.standart-buttonnormal35 {
+  position: absolute;
+  top: 158px;
+  left: 81px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen);
+  width: 190px;
+  height: 30px;
+  white-space: nowrap;
+  color: var(--color-gainsboro);
+}
+.image-9-icon35 {
+  position: absolute;
+  top: 22px;
+  left: 18px;
+  width: 50px;
+  height: 49.9px;
+  object-fit: cover;
+}
+.featured-job35 {
+  width: 320px;
+  height: 220px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: none;
+}
+.all-jobs,
+.type-of-employment {
+  margin: 0;
+  height: 42px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.all-jobs {
+  height: 54px;
+}
+.core-text-icon {
+  height: 0;
+  width: 120px;
+  position: relative;
+}
+.salary-range-frame,
+.type-of-employment-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.salary-range-frame {
+  align-items: center;
+  gap: var(--gap-2xl);
+  font-size: 36px;
+  color: var(--color-gray-100);
+}
+.type-of-employment-parent {
+  align-items: flex-end;
+  gap: 63px;
+  min-height: 87px;
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+}
+.square-3905918-15 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.full-time36 {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: flex-end;
+}
+.finance-frame,
+.text-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.finance-frame {
+  gap: var(--gap-5xs);
+}
+.text-frame {
+  padding: 0 15px;
+}
+.square-3905918-28 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.part-time {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: flex-end;
+}
+.rectangle-frame,
+.text-frame1,
+.text-frame2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-frame {
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+}
+.text-frame1,
+.text-frame2 {
+  flex-direction: row;
+}
+.text-frame2 {
+  gap: var(--gap-5xs);
+}
+.text-frame1 {
+  padding: 0 var(--padding-6xs);
+}
+.square-3905918-17 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.remote {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: flex-end;
+}
+.square-3905918-17-parent,
+.text-frame3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.square-3905918-17-parent {
+  gap: var(--gap-5xs);
+}
+.text-frame3 {
+  padding: 0 26px;
+}
+.square-3905918-16 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.internship,
+.text-frame4 {
+  display: flex;
+  align-items: flex-end;
+}
+.internship {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.text-frame4 {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.categories {
+  margin: 0;
+  height: 42px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.core-frame,
+.text-frame5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.text-frame5 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--font-size-9xl);
+}
+.core-frame {
+  width: 210px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 19px;
+}
+.image-9-icon36 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer37 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd36 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon36 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time37 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.mdiclock-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon43 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai36 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.image,
+.layer-1-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.image {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.job-listing-frame {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.apply-now36,
+.job-listing-frame,
+.software-developer36 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.apply-now36 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.software-developer36 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now37 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal36 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.full-time38 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job36 {
+  flex: 0.8438;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  min-width: 240px;
+  cursor: pointer;
+  z-index: 1;
+}
+.image-9-icon37 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer38 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd37 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon37 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time39 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.technology {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon44 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai37 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.core,
+.health {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.core {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-parent {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-parent,
+.frame-a,
+.software-developer-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-parent {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.frame-a {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now38 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal37 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.layer1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job37,
+.text-frame7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.featured-job37 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  align-items: center;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 8;
+}
+.text-frame7 {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 240px;
+}
+.image-9-icon38 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer39 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd38 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon38 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time40 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.mdiclock-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon45 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai38 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.frame-div,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-group {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-group,
+.image-9-parent,
+.software-developer-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-group {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.image-9-parent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now39 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal38 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.featured-job38,
+.standart-buttonnormal-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job38 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 5;
+}
+.text-frame6,
+.text-frame8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-frame8 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 240px;
+}
+.text-frame6 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 28px;
+}
+.design-text,
+.rectangle-frame1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-frame1 {
+  width: 1016px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  font-size: var(--text-size);
+  color: var(--color-gray-100);
+}
+.design-text {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.square-3905918-27 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.technology1 {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.finance {
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.square-3905918-19 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.design {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.text {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.square-3905918-20 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.core1 {
+  margin: 0;
+  height: 29px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.square-3905918-20-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.square-3905918-18 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.finance1 {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.featured-job-container,
+.finance-frame1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.finance-frame1 {
+  flex-direction: row;
+  gap: var(--gap-3xl);
+  font-family: var(--font-poppins);
+}
+.featured-job-container {
+  flex: 1;
+  flex-direction: column;
+  gap: 18px;
+  font-family: var(--font-inter);
+}
+.square-3905918-22 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.marketting {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.salary-range-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.square-3905918-23 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.health1 {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.square-3905918-23-parent {
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.square-3905918-21 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.production {
+  margin: 0;
+  height: 36px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.square-3905918-21-parent {
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.health-production,
+.square1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.square1 {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.health-production {
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.salary-range {
+  margin: 0;
+  height: 42px;
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.square,
+.square-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.square {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-12xl);
+}
+.square-wrapper {
+  height: 467px;
+  width: 237px;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+}
+.featured-job-child2 {
+  width: 386px;
+  position: relative;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  height: 125px;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.layer-1-icon46 {
+  width: 32px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.image-9-icon39 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer40 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd39 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon39 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time41 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.application-btn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon47 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai39 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.application-btn-parent,
+.chennai-location-name {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.application-btn-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.full-time-label {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.featured-job-box,
+.full-time-label,
+.job-title-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.job-title-frame {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.featured-job-box {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now40 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal39 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.apply-button,
+.featured-job39 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job39 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 1;
+}
+.image-9-icon40 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer41 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd40 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon40 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time42 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.mdiclock-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon48 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai40 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.frame-container,
+.layer-1-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-container {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-container {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-container,
+.image-9-group,
+.software-developer-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-container {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.image-9-group {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now41 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal40 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.standart-buttonnormal-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job-parent,
+.featured-job40 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.featured-job40 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  align-items: center;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+}
+.featured-job-parent {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-27xl);
+  min-width: 241px;
+  max-width: 100%;
+}
+.image-9-icon41 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer42 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd41 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon41 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time43 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.layer-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon49 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai41 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.apply-now-button,
+.full-time-label2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.full-time-label2 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.software-developer-frame {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.chennai-city-frame,
+.full-time-label1,
+.software-developer-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chennai-city-frame {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.full-time-label1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now42 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal41 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.featured-job-frame,
+.featured-job41 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job41 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 6;
+}
+.image-9-icon42 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer43 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd42 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon42 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time44 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.marketing-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon50 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai42 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.core-info,
+.label-background-rectangle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.label-background-rectangle {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-parent1 {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-parent1,
+.image-9-container,
+.software-developer-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-parent1 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.image-9-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now43 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal42 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.standart-buttonnormal-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job-group,
+.featured-job42,
+.image-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.featured-job42 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  align-items: center;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 3;
+}
+.featured-job-group,
+.image-frame {
+  align-items: flex-start;
+}
+.featured-job-group {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-27xl);
+}
+.image-frame {
+  flex: 1;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 241px;
+  max-width: 100%;
+}
+.image-9-icon43 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer44 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd43 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon43 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time45 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.mdiclock-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon51 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai43 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.frame-parent1,
+.layer-1-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent1 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-parent2 {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-parent2,
+.image-9-parent1,
+.software-developer-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-parent2 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.image-9-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now44 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal43 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.featured-job43,
+.standart-buttonnormal-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job43 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 7;
+}
+.image-9-icon44 {
+  height: 49.9px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.software-developer45 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.dell-pvt-ltd44 {
+  position: relative;
+  line-height: 24px;
+}
+.mdiclock-icon44 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.full-time46 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.mdiclock-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.layer-1-icon52 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.chennai44 {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.frame-parent2,
+.layer-1-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-parent2 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.dell-pvt-ltd-parent3 {
+  flex-direction: column;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+.dell-pvt-ltd-parent3,
+.image-9-parent2,
+.software-developer-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.software-developer-parent3 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 134px;
+}
+.image-9-parent2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-smi);
+}
+.apply-now45 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-family: var(--text);
+  color: var(--color-gainsboro);
+  text-align: left;
+}
+.standart-buttonnormal44 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-36xl) var(--padding-7xs)
+    var(--padding-37xl);
+  background-color: var(--color-lightseagreen);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.standart-buttonnormal-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.featured-job-parent1,
+.featured-job44,
+.image-frame1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.featured-job44 {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 8px 8px 16px 4px rgba(137, 143, 150, 0.04);
+  border: 0.5px solid var(--color-aliceblue);
+  align-items: center;
+  padding: var(--padding-3xl) var(--padding-13xl) var(--padding-13xl)
+    var(--padding-mid);
+  gap: var(--gap-xl);
+  cursor: pointer;
+  z-index: 2;
+}
+.featured-job-parent1,
+.image-frame1 {
+  align-items: flex-start;
+}
+.featured-job-parent1 {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-27xl);
+}
+.image-frame1 {
+  flex: 1;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 241px;
+  max-width: 100%;
+}
+.frame-group,
+.title-label {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.title-label {
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 26px;
+  max-width: calc(100% - 333px);
+  font-size: var(--text-size);
+  color: var(--color-gray-100);
+}
+.frame-group {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 96px;
+  max-width: 100%;
+}
+.square-3905918-24 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.above {
+  height: 36px;
+  position: relative;
+  display: inline-block;
+}
+.parent-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.square-3905918-29 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.text3 {
+  height: 36px;
+  position: relative;
+  display: inline-block;
+}
+.text1,
+.text2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.text2 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.text1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.square-3905918-26 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.text5 {
+  height: 36px;
+  position: relative;
+  display: inline-block;
+}
+.text-parent,
+.text4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.text-parent {
+  flex-direction: column;
+  gap: var(--gap-2xl);
+}
+.square-3905918-25 {
+  margin: 0;
+  height: 35px;
+  width: 35px;
+  position: relative;
+}
+.above-75000 {
+  height: 36px;
+  position: relative;
+  display: inline-block;
+}
+.parent-frame1 {
+  flex-direction: row;
+  gap: var(--gap-5xs);
+}
+.above-frame,
+.above-frame1,
+.parent-frame1,
+.square-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.square-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-6xl);
+}
+.above-frame,
+.above-frame1 {
+  max-width: 100%;
+}
+.above-frame1 {
+  width: 328px;
+  flex-direction: row;
+  padding: 0 50px;
+  box-sizing: border-box;
+}
+.above-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.above-frame-wrapper,
+.jobs {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.above-frame-wrapper {
+  width: 1408px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 37px 0 var(--padding-xl);
+  max-width: 100%;
+}
+.jobs {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 62px;
+  gap: 35px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--text);
+}
+@media screen and (max-width: 1300px) {
+  .design-text {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-square {
+    padding-right: 42px;
+    box-sizing: border-box;
+  }
+  .text-frame6 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .find-your-dream-container {
+    font-size: 35px;
+    line-height: 48px;
+  }
+  .frame-square {
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .all-jobs {
+    font-size: 29px;
+  }
+  .type-of-employment-parent {
+    flex-wrap: wrap;
+    gap: var(--gap-12xl);
+  }
+  .square-wrapper {
+    display: none;
+  }
+  .title-label {
+    max-width: 100%;
+  }
+  .frame-group {
+    gap: var(--gap-29xl);
+  }
+  .jobs {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .find-your-dream-container {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .new-zealand {
+    font-size: var(--font-size-base);
+  }
+  .job-search-location {
+    gap: var(--gap-5xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .new-zealand1 {
+    font-size: var(--font-size-base);
+  }
+  .search1 {
+    font-size: var(--font-size-lgi);
+    line-height: 25px;
+  }
+  .software-developer,
+  .software-developer1,
+  .software-developer10,
+  .software-developer11,
+  .software-developer12,
+  .software-developer13,
+  .software-developer14,
+  .software-developer15,
+  .software-developer16,
+  .software-developer17,
+  .software-developer18,
+  .software-developer19,
+  .software-developer2,
+  .software-developer20,
+  .software-developer21,
+  .software-developer22,
+  .software-developer23,
+  .software-developer24,
+  .software-developer25,
+  .software-developer26,
+  .software-developer27,
+  .software-developer28,
+  .software-developer29,
+  .software-developer3,
+  .software-developer30,
+  .software-developer31,
+  .software-developer32,
+  .software-developer33,
+  .software-developer34,
+  .software-developer35,
+  .software-developer4,
+  .software-developer5,
+  .software-developer6,
+  .software-developer7,
+  .software-developer8,
+  .software-developer9 {
+    font-size: var(--font-size-base);
+  }
+  .all-jobs,
+  .type-of-employment {
+    font-size: var(--font-size-3xl);
+  }
+  .type-of-employment-parent {
+    gap: 16px;
+  }
+  .full-time36,
+  .internship,
+  .part-time,
+  .remote {
+    font-size: var(--font-size-lgi);
+  }
+  .categories {
+    font-size: var(--font-size-3xl);
+  }
+  .software-developer37 {
+    font-size: var(--font-size-base);
+  }
+  .software-developer36 {
+    flex-wrap: wrap;
+  }
+  .featured-job36 {
+    flex: 1;
+  }
+  .software-developer38 {
+    font-size: var(--font-size-base);
+  }
+  .frame-a {
+    flex-wrap: wrap;
+  }
+  .software-developer39 {
+    font-size: var(--font-size-base);
+  }
+  .image-9-parent {
+    flex-wrap: wrap;
+  }
+  .core1,
+  .design,
+  .finance1,
+  .health1,
+  .marketting,
+  .production,
+  .technology1 {
+    font-size: var(--font-size-lgi);
+  }
+  .salary-range {
+    font-size: var(--font-size-3xl);
+  }
+  .software-developer40 {
+    font-size: var(--font-size-base);
+  }
+  .featured-job-box {
+    flex-wrap: wrap;
+  }
+  .software-developer41 {
+    font-size: var(--font-size-base);
+  }
+  .image-9-group {
+    flex-wrap: wrap;
+  }
+  .featured-job-parent {
+    gap: var(--gap-4xl);
+  }
+  .software-developer42 {
+    font-size: var(--font-size-base);
+  }
+  .full-time-label1 {
+    flex-wrap: wrap;
+  }
+  .software-developer43 {
+    font-size: var(--font-size-base);
+  }
+  .image-9-container {
+    flex-wrap: wrap;
+  }
+  .featured-job-group {
+    gap: var(--gap-4xl);
+  }
+  .software-developer44 {
+    font-size: var(--font-size-base);
+  }
+  .image-9-parent1 {
+    flex-wrap: wrap;
+  }
+  .software-developer45 {
+    font-size: var(--font-size-base);
+  }
+  .image-9-parent2 {
+    flex-wrap: wrap;
+  }
+  .featured-job-parent1 {
+    gap: var(--gap-4xl);
+  }
+  .frame-group {
+    gap: var(--gap-5xl);
+  }
+  .above,
+  .above-75000,
+  .text3,
+  .text5 {
+    font-size: var(--font-size-lgi);
+  }
+  .above-frame1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
